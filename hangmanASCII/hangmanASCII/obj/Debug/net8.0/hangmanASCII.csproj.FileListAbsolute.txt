@@ -1,0 +1,28 @@
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.exe
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.deps.json
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.runtimeconfig.json
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.dll
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.pdb
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.AssemblyInfoInputs.cache
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.AssemblyInfo.cs
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.csproj.CoreCompileInputs.cache
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.dll
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\refint\hangmanASCII.dll
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.pdb
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.genruntimeconfig.cache
+C:\Users\skrig\Desktop\hangmanASCII\hangmanASCII\obj\Debug\net8.0\ref\hangmanASCII.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.exe
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.deps.json
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.runtimeconfig.json
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\bin\Debug\net8.0\hangmanASCII.pdb
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.AssemblyInfoInputs.cache
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.AssemblyInfo.cs
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.csproj.CoreCompileInputs.cache
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\refint\hangmanASCII.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.pdb
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\hangmanASCII.genruntimeconfig.cache
+C:\Users\skrig\OneDrive - Syddansk Universitet\Programmeringsøvelser\hangmanASCII\hangmanASCII\obj\Debug\net8.0\ref\hangmanASCII.dll
