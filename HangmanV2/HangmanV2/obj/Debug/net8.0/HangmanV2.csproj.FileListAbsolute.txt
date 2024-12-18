@@ -1,0 +1,29 @@
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.exe
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.deps.json
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.runtimeconfig.json
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.pdb
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.AssemblyInfoInputs.cache
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.AssemblyInfo.cs
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.csproj.CoreCompileInputs.cache
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\refint\HangmanV2.dll
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.pdb
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.genruntimeconfig.cache
+C:\Users\skrig\OneDrive - Syddansk Universitet\1. semester\Programmeringsøvelser\HangmanV2\HangmanV2\obj\Debug\net8.0\ref\HangmanV2.dll
+G:\Github repos\hangman\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.exe
+G:\Github repos\hangman\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.deps.json
+G:\Github repos\hangman\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.runtimeconfig.json
+G:\Github repos\hangman\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.dll
+G:\Github repos\hangman\HangmanV2\HangmanV2\bin\Debug\net8.0\HangmanV2.pdb
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.AssemblyInfoInputs.cache
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.AssemblyInfo.cs
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.csproj.CoreCompileInputs.cache
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.sourcelink.json
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.dll
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\refint\HangmanV2.dll
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.pdb
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\HangmanV2.genruntimeconfig.cache
+G:\Github repos\hangman\HangmanV2\HangmanV2\obj\Debug\net8.0\ref\HangmanV2.dll
